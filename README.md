@@ -1,4 +1,14 @@
-## Hi there 👋
+##### Just starting up, hope to fill this counter soon 😊
+<div id="badges">
+  <a href="https://www.linkedin.com/in/michele-del-zoppo-a8791761">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="[LinkedIn]"/>
+  </a>
+  <a href="https://sites.google.com/view/geo-michele/home">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge" alt="[MyWebsite]"/>
+  </a>
+</div>
+
+![PDMKDZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdmkdz)
 
 <!--
 **pdmkdz/pdmkdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
