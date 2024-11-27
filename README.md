@@ -6,7 +6,11 @@
   <a href="https://sites.google.com/view/geo-michele/home">
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge" alt="[MyWebsite]"/>
   </a>
+  <a href="https://github.com/pdmkdz/resume/blob/main/README.md">
+    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge" alt="[RESUME]"/>
+  </a>
 </div>
+
 
 ![PDMKDZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdmkdz)
 
