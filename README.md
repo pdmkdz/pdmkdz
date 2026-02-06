@@ -11,6 +11,10 @@
   </a>
 </div>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pdmkdz)  
+
+PS: Due to the above link using a public istance of Vercel it may run out of quota and not work for a while see [github-readme-stats](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file) project for more details.
+
 <!--
 **pdmkdz/pdmkdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
