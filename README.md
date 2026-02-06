@@ -11,9 +11,6 @@
   </a>
 </div>
 
-
-![PDMKDZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdmkdz)
-
 <!--
 **pdmkdz/pdmkdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
