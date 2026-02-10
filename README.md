@@ -13,6 +13,8 @@
 
 [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=pdmkdz)](https://github.com/stats-organization/github-stats-extended)
 
+
+If you are interested on how to show the stats like above check out [github-stats-extended)](https://github.com/stats-organization/github-stats-extended)!
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pdmkdz)  NO LONGER IN USE
 PS: Due to the above link using a public istance of Vercel it may run out of quota and not work for a while see [github-readme-stats](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file) project for more details.
